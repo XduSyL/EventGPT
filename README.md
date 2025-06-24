@@ -199,7 +199,7 @@ python ./inference.py \
 
 
 ## 🔥 News
-• **[2025-06-24]** 📂 We have released a **subset** of the **[EventGPT dataset](https://huggingface.co/datasets/XduSyL/EventGPT-datasets/tree/main)** on Hugging Face! Dive in to explore event-based multimodal data. 🔥🔥🔥
+• **[2025-06-24]** 📂 We have released a **subset** of the **[EventGPT dataset](https://huggingface.co/datasets/XduSyL/EventGPT-datasets/tree/main)** on Hugging Face! 🔥🔥🔥
 
 •	**[2025-03-31]**  🚀 EventGPT **[model](https://drive.google.com/drive/folders/1FgA0a0HQ6AnF6gq_97Z0iPJXRUUup_vn?usp=drive_link)** and sample data are now publicly available!  🔥
 
