@@ -216,11 +216,12 @@ python ./inference.py \
 ## 📃Citation
 
 ```
-@article{liu2024eventgpteventstreamunderstanding,
-      title={EventGPT: Event Stream Understanding with Multimodal Large Language Models}, 
-      author={Shaoyu Liu and Jianing Li and Guanghui Zhao and Yunjian Zhang and Xin Meng and Fei Richard Yu and Xiangyang Ji and Ming Li},
-      year={2024},
-      publisher={arXiv:2412.00832}, 
+@inproceedings{liu2025eventgpt,
+  title={Eventgpt: Event stream understanding with multimodal large language models},
+  author={Liu, Shaoyu and Li, Jianing and Zhao, Guanghui and Zhang, Yunjian and Meng, Xin and Yu, Fei Richard and Ji, Xiangyang and Li, Ming},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={29139--29149},
+  year={2025}
 }
 ```
 
